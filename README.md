@@ -15,6 +15,10 @@ ge](https://user-images.githubusercontent.com/95730183/146591443-1c3c9011-8104-4
 In May kickstarter campaigns had the most success with 111 successful, 52 failed, amd 3 canceled with a total of 111.  December saw the least amount of Kickstarters with 37, 35 failed, amd 3 canceled with the total being the least amount of theater outcomes of all the months.  
 
 ## Outcomes based on Goals Chart
+
+![image](https://user-images.githubusercontent.com/95730183/146593234-717ae8c6-fcb5-4433-bba5-b39eb4242f07.png)
+There were zero successful campaigns with goals  between 45000 to 49999.  Campaigns with goals less than 1000 were almost 80% successful.  
+
 ## A written analysis of the results 
 
 
