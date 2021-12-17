@@ -25,8 +25,13 @@ In May kickstarter campaigns had the most success with 111 successful, 52 failed
 There were zero successful campaigns with goals  between 45000 to 49999.  Campaigns with goals less than 1000 were almost 80% successful.  
 
 ## A Written Analysis of the Results
-### Summary of the limitations of the dataset, and reccommendation for additional tables or graphs
+### Summary of the limitations of the dataset
+
 There is one goal that is 100,000,000 wich jumps from the previous goal by 70,000,000.  This could be considered an outlier and skew the data. 
+
+### Recommendation for additional tables or graphs
+An analysis and could be used to compare successful or failed kickstarters by years with a line chart.
+An analysis and pie chart could be used to show the most successful types of kickstarters.  
 
 
 
