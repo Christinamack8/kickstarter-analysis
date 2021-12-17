@@ -5,7 +5,12 @@ Performing analysis on kickstarter data to uncover some trends
 ## Analysis and Challenges
 My main challenges included figuring out the Countifs function to determine the Outcomes based on goals.  My formula's were not working as well as I missed a line row containing one of the ranges causing my chart to look off. All of the criteria's needed to be added which took me a while to figure out.
 
-Dates needed to be converted and column added to create the year.  Subcategory was added and Parent Category was filtered out.  
+=COUNTIFS('Kickstarter '!$F:$F, "successful", 'Kickstarter '!D:D,"<1000", 'Kickstarter '!$R:$R, "plays")
+
+Dates needed to be converted and column added to create the year.  Subcategory was added and Parent Category was fil
+tered out.  
+
+=YEAR([@[Date Created Conversion]])
 
 ## Outcomes based on Theater Launch Date Charts
 
@@ -19,7 +24,9 @@ In May kickstarter campaigns had the most success with 111 successful, 52 failed
 ![image](https://user-images.githubusercontent.com/95730183/146593234-717ae8c6-fcb5-4433-bba5-b39eb4242f07.png)
 There were zero successful campaigns with goals  between 45000 to 49999.  Campaigns with goals less than 1000 were almost 80% successful.  
 
-## A written analysis of the results 
+## A Written Analysis of the Results
+### Summary of the limitations of the dataset, and reccommendation for additional tables or graphs
+There is one goal that is 100,000,000 wich jumps from the previous goal by 70,000,000.  This could be considered an outlier and skew the data. 
 
 
 
